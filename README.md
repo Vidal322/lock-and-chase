@@ -1,9 +1,7 @@
-# lock-and-chase
-Projeto de fundamentos da programação. Lock and Chase Atari 2600, Pedro Vidal Marcelino up202108754
-# Projeto XXXX
-## FPRO/MIEIC, 2021/22
-## Fulano de Tal (up2021xxxxx)
-## 1MIEICXX
+# Projeto Lock and Chase
+## FPRO/L.EIC, 2021/22
+## Pedro Vidal Marcelino (up202108754)
+## 1L.EIC03
 
 ### Objetivo
 
