@@ -13,8 +13,6 @@
 
 1) Link para o repositório do GitHub: https://github.com/@author/xxx
 
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
 - https://github.com/rpmcruz
 
 ### Descrição
