@@ -22,7 +22,7 @@
 
 ### UI
 
-![Lock N' Chase](LockN'chase.png)
+![Lock N' Chase](Lock N'chase.png)
 
 ### Pacotes
 
