@@ -5,25 +5,23 @@
 
 ### Objetivo
 
-1. Criar um clone do clássico Sokoban em Pygame...
+1. Criar um clone do jogo Lock N' Chase em Pygame.
 
-2. Em alternativa... do clássico x em Pygame.
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
+1) Link para o repositório do GitHub: https://github.com/Vidal322/lock-and-chase
 
 - https://github.com/rpmcruz
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+É um jogo de labirinto em que o jogador contola um ladrão, com as setas do teclado, cujo objetivo é apanhar todas as moedas de ouro espalhadas pelo mapa, sem ser apanhado pelos 4 detetives a vaguear pelo mapa.
+É possível colocar paredes temporárias, com a tecla espaço, para impedir a passagem das personagens no local por onde o jogador acabou de passar
 
 ### UI
 
-![UI](ui.png)
+![Lock N' Chase](ui.png)
 
 ### Pacotes
 
