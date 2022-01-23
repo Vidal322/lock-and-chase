@@ -16,7 +16,7 @@
 
 ### Descrição
 
-É um jogo de labirinto em que o jogador contola um ladrão, com as setas do teclado, cujo objetivo é apanhar todas as moedas de ouro espalhadas pelo mapa, sem ser apanhado pelos 4 detetives a vaguear pelo mapa.
+É um jogo de labirinto em que o jogador contola um ladrão, com as setas do teclado, cujo objetivo é apanhar todas as moedas de ouro espalhadas pelo mapa, sem ser apanhado pelos 4 detetives a vaguear pelo mapa. \n
 É possível colocar paredes temporárias, com a tecla espaço, para impedir a passagem das personagens no local por onde o jogador acabou de passar
 
 ### UI
