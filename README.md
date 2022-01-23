@@ -30,7 +30,10 @@
 
 ### Tarefas
 
-1. carregar os níveis
 1. desenhar a matriz do nível
 1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+2. verificar se jogador chegou ao fim do nível / apanhou todas as moedas
+3. Adicionar vidas
+4. Adicionar Sprites
+5. Adicionar Ecrã de início e fim
+6. Highscore
